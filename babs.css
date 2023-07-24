@@ -1,0 +1,40 @@
+h1,h2{
+    color: green;
+}
+
+
+hi{
+    color: tomato;
+
+}
+
+a:hover{
+
+    color: darkred;
+}
+
+.example{
+color: chartreuse
+
+}
+hi{
+    font-family: 'courier new';
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center; 
+    color: red;
+    background-color: blue;
+}
+.overlay{
+    opacity: 0.5;
+}
+p{
+    height: 80px;
+    width: 240;
+    border: 3px solid coral;
+    border-radius: 50px;
+    padding: 100;
+    padding: 6px 11px 4px 90px;
+    margin: 200;
+    margin:6px 11px 4px 90px;
+}
